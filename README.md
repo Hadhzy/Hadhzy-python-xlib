@@ -6,11 +6,11 @@
 
 **Installation**:
 ```
-pip install Hadhzy-python-xlib
+pip install hadhzy-python-xlib
 
 ```
 ```
-poetry add Hadhzy-python-xlib
+poetry add hadhzy-python-xlib
 ```
 
 `NOTE:` **THIS IS A FORK**
